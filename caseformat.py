@@ -1,5 +1,7 @@
-from enum import Enum
+# coding=utf-8
+
 from functools import partial
+
 
 class _CaseForamt(object):
     @classmethod
